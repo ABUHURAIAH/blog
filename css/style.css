@@ -1,0 +1,81 @@
+.learning-project {
+    max-width: 144rem;
+    height: 96rem;
+    background-color: #F4D04E;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learning-box {
+    max-width: 38.4rem;
+    height: 58.2rem;
+    background-color: #FFFFFF;
+    padding: 2.4rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.box-img {
+    width: 33.6rem;
+    height: 20rem;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.box-matter {
+    width: 33.6rem;
+    height: 19.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+h2 {
+    display: inline-block;
+    background-color: #F4D04E;
+    padding: 0.4rem 1.2rem;
+    width: fit-content;
+    border-radius: 0.4rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+p {
+    height: 7.2rem;
+    color: #333;
+    font-size: 1.4rem;
+    line-height: 1.8;
+}
+
+.box-last {
+    display: flex;
+    gap: 1.5rem;
+    width: 100%;
+    align-items: center;
+}
+
+.last-img {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+}
+
+.last-name {
+   width: fit-content;  
+   margin-left: 4rem; 
+  padding-top: 2rem;
+}
+.name{
+    font-size: 2rem;
+
+}
